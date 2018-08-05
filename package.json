@@ -38,6 +38,6 @@
     "youtube-playlist-summary": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^5.3.0"
   }
 }
