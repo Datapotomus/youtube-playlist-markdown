@@ -3,7 +3,7 @@
 ![GitHub package version](https://img.shields.io/github/package-json/v/alincode/youtube-playlist-markdown.svg)
 ![node version](https://img.shields.io/node/v/youtube-playlist-markdown.svg)
 ![npm downloads](https://img.shields.io/npm/dt/youtube-playlist-markdown.svg)
-[![Dependency Status](https://img.shields.io/david/alincode/youtube-playlist-markdown.svg?style=flat)](https://david-dm.org/alincode/youtube-playlist-markdown)
+[![Dependency Status](https://img.shields.io/david/alincode/youtube-playlist-markdown.svg?style=flat)](https://david-dm.org/alincode/youtube-playlist-markdown) [![Greenkeeper badge](https://badges.greenkeeper.io/alincode/youtube-playlist-markdown.svg)](https://greenkeeper.io/)
 
 It could help you scan all playlist information and generate friendly markdown table, look like below. if you want to use [**cli mode**](https://www.npmjs.com/package/youtube-playlist-markdown-cli), you could go [here](https://www.npmjs.com/package/youtube-playlist-markdown-cli).
 
